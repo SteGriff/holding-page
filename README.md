@@ -15,7 +15,7 @@ Unfortunately, I no longer have free access to Microsoft Azure to host these pro
 
 Apologies for any inconvenience.
 
-In the meantime, you can find my website at <stegriff.co.uk> and I'm SteGriff on Twitter, GitHub, Glitch, and dev.to.
+In the meantime, you can find my website at http://stegriff.co.uk and I'm SteGriff on Twitter, GitHub, Glitch, and dev.to.
 
 Thanks for understanding! 🙌
 
